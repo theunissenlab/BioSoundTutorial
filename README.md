@@ -1,1 +1,7 @@
 # BioSoundTutorial
+
+This repository contains 4 tutorials that should be done in succession.  These tutorials show how to use BioSound to extract sound features from natural sounds: animal and human vocalizations, music or enviromental sounds.  BioSound represents sounds using classical bioacoustical features such as the frequency of energy quartiles in the power spectrum as well as features used more specifically for speech and animal calls such as the fundamental, the pitch saliency and formants.  Biosounds also include a spectrogram and a modulation power spectrum.
+
+The tutorials will show you how to analize an ensemble of sounds that have been pre-cut (as separate wav files for example) in units that are relevant for the analysis. 
+
+The BioSound object is in theunissenlab/soundsig.  You can also pip install soundsig.   

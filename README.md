@@ -7,3 +7,7 @@ The tutorials will show you how to analize an ensemble of sounds that have been 
 The BioSound object is in theunissenlab/soundsig.  You can also pip install soundsig.   
 
 The 5 Jupyter tutorials contain additional information on the methodology.
+
+## Running in Google colab (work in progress)
+
+The [tutorial can be run in colab](colab.research.google.com/github/theunissenlab/BioSoundTutorial/blob/master/BioSound_Tutorial_Colab.ipynb). This notebook will clone this repository for the necessary data files.

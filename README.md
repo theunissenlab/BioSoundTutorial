@@ -10,4 +10,4 @@ The 5 Jupyter tutorials contain additional information on the methodology.
 
 ## Running in Google colab (work in progress)
 
-The [tutorial can be run in colab](colab.research.google.com/github/theunissenlab/BioSoundTutorial/blob/master/BioSound_Tutorial_Colab.ipynb). This notebook will clone this repository for the necessary data files.
+The [tutorial can be run in colab](https://colab.research.google.com/github/theunissenlab/BioSoundTutorial/blob/master/BioSound_Tutorial_Colab.ipynb). This notebook will clone this repository for the necessary data files.

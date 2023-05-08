@@ -4,7 +4,12 @@ This repository contains 5 tutorials that should be done in succession.  These t
 
 The tutorials will show you how to analize an ensemble of sounds that have been pre-cut (as separate wav files for example) in units that are relevant for the analysis. 
 
-The BioSound object is in theunissenlab/soundsig.  You can also pip install soundsig.   
+The BioSound object is in theunissenlab/soundsig.  You can pip install the latest version directly from github:
+
+`pip install -e git+https://github.com/theunissenlab/soundsig.git@master#egg=soundsig`
+Or you can also directly attempt the pip install from PyPi
+
+`pip install soundsig`.   
 
 The 5 Jupyter tutorials contain additional information on the methodology.
 
